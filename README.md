@@ -23,7 +23,7 @@
 ### Main skills:
 <div align="left"> 
   
-<img align="left" height="84" width="84" src="[https://github.com/pedrosayuri/pedrosayuri/issues/1](https://github.com/pedrosayuri/pedrosayuri/assets/56764512/a34427af-9eb6-43e8-a048-b07e3d0590df)">
+<img align="left" height="84" width="84" src="https://github.com/pedrosayuri/pedrosayuri/assets/56764512/a34427af-9eb6-43e8-a048-b07e3d0590df">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
