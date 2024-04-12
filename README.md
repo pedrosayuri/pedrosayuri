@@ -10,17 +10,13 @@
 
 <div align="center">  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrosayuri&theme=react&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">  
-<a href="https://github.com/pedrosayuri/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/pedrosayuri/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrosayuri&theme=react&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosayuri&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
    
 <div align="center" >
