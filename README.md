@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&random=false&width=650&height=100&lines=--------+Hello+World!+--------;+I'm+Yuri+Pedrosa+de+Oliveira+;%F0%9F%92%BB+Full-Stack+Developer+%E2%80%8B%F0%9F%93%B1%E2%80%8B;Specialized+in+Web+and+Mobile.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=000000&background=36BCF7&random=false&width=650&height=100&lines=--------+Hello+World!+--------;+I'm+Yuri+Pedrosa+de+Oliveira+;%F0%9F%92%BB+Full-Stack+Developer+%E2%80%8B%F0%9F%93%B1%E2%80%8B;Specialized+in+Web+and+Mobile.)](https://git.io/typing-svg)
 
 </div>
 
