@@ -1,8 +1,11 @@
-<div align="center">
+<div style="background-image: url('https://github.com/pedrosayuri/pedrosayuri/assets/56764512/c8ed5f69-439b-4800-8647-4f5968a4bafb'); background-size: cover;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&pause=1000&color=38C2FF&background=36BCF700&vCenter=true&random=false&width=900&height=70&lines=------+Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB++------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;%F0%9F%93%B1+Specialized+in+Web+and+Mobile+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosayuri&bg_color=000000&color=B0E0E6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
