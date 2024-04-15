@@ -20,6 +20,10 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 </div>
 
+<br>
+<br>
+<br>
+
 ### Main skills:
 ![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
