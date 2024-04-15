@@ -1,8 +1,6 @@
-<div style="background-image: url('https://raw.githubusercontent.com/pedrosayuri/pedrosayuri/main/assets/56764512/c8ed5f69-439b-4800-8647-4f5968a4bafb.jpg'); background-size: cover; background-position: center;">
+<div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&pause=1000&color=38C2FF&background=36BCF700&vCenter=true&random=false&width=900&height=70&lines=------+Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB++------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;%F0%9F%93%B1+Specialized+in+Web+and+Mobile+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-![wallpaper](https://github.com/pedrosayuri/pedrosayuri/assets/56764512/c8ed5f69-439b-4800-8647-4f5968a4bafb)
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif)
 
