@@ -1,5 +1,19 @@
 <div align="center">
 
+### Resumo Profissional
+
+Graduado em Bacharelado em Ciências e Tecnologia pela UFRN, com paixão pela programação desde 2019. Experiente em liderança e desenvolvimento FullStack, destacando-se por:
+
+- Liderança em projeto de iniciação científica para gestão de feiras livres, demonstrando habilidades FullStack.
+- Contribuição significativa como Técnico de Programação na Simples Meios de Pagamento, onde participei do desenvolvimento de sistemas para recebimentos de contas em parceria com o Banco Santander, Banco do Brasil e GetNet.
+- Promoção para Desenvolvedor Júnior, liderando projeto Android para aprimoramento dos recebimentos, evidenciando minha capacidade de liderança e habilidades técnicas.
+
+Com um histórico comprovado de sucesso em projetos desafiadores, estou pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&pause=1000&color=38C2FF&background=36BCF700&vCenter=true&random=false&width=900&height=70&lines=------+Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB++------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;%F0%9F%93%B1+Specialized+in+Web+and+Mobile+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
