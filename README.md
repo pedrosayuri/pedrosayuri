@@ -20,8 +20,6 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosayuri&bg_color=000000&color=B0E0E6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Main skills:
 ![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
