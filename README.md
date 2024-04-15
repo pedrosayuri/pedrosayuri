@@ -10,7 +10,7 @@
 
 <div>
 
-<img align="right" alt="Codando" width="450" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
+<img align="right" alt="bear coding" width="500" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
 Bachelor's degree in Science and Technology from UFRN, passionate bout programming since 2019, Experienced in leadership and FullStack development, with highlightes including:
 
