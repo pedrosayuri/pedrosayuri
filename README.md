@@ -8,33 +8,19 @@
 
 <div>
 
- ## Resumo Profissional
+## Professional Summary
 
 <img align="right" alt="Codando" width="450" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
- Graduado em Bacharelado em Ciências e Tecnologia pela UFRN, com paixão pela programação desde 2019. Experiente em liderança e desenvolvimento FullStack, destacando-se por:
+Bachelor's degree in Science and Technology from UFRN, passionate bout programming since 2019, Experienced in leadership and FullStack development, with highlightes including:
 
- - Liderança em projeto de iniciação científica para gestão de feiras livres, demonstrando habilidades FullStack.
- - Contribuição significativa como Técnico de Programação na Simples Meios de Pagamento, onde participei do desenvolvimento de sistemas para recebimentos de contas em parceria com o Banco Santander, Banco do Brasil e GetNet.
- - Promoção para Desenvolvedor Júnior, liderando projeto Android para aprimoramento dos recebimentos, evidenciando minha capacidade de liderança e habilidades técnicas.
+- Leadership in a scientific initiation project for managing open-air markets, showcasing FullStack skills.
+- Significant contribution as a Programming Technician at Simples Meios de Pagamento, where I participated in developing systems for bill payments in partnership with major national and international banking systems.
+- Promoted to Junior Developer, leading an Android project to enhance payment processing, demonstrating my leadership and tecnhical skills.
 
- Com um histórico comprovado de sucesso em projetos desafiadores, estou pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
-
-</div>
-
-<div style="flex: 1; text-align: left; padding: 20px;">
+With a proven track record of success in challenging projects, I am ready to tackle new challenges and continue to grow professionally.
 
 </div>
-
-</div>
-
-
-
-
-
-
-
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosayuri&bg_color=000000&color=B0E0E6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
