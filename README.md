@@ -8,21 +8,18 @@
 
 <br>
 
-<div>
+<div style="text-align: justify;">
 
-<div>
-<img align="right" alt="bear coding" width="500" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
-</div>
-
-Bachelor's degree in Science and Technology from UFRN, passionate bout programming since 2019, Experienced in leadership and FullStack development, with highlightes including:
+Bachelor's degree in Science and Technology from UFRN, passionate about programming since 2019. Experienced in leadership and FullStack development, with highlights including:
 
 - Leadership in a scientific initiation project for managing open-air markets, showcasing FullStack skills.
-- Significant contribution as a Programming Technician at Simples Meios de Pagamento, where I participated in developing systems for bill payments in partnership <br> with major national and international banking systems.
-- Promoted to Junior Developer, leading an Android project to enhance payment processing, demonstrating my leadership and tecnhical skills.
+- Significant contribution as a Programming Technician at Simples Meios de Pagamento, where I participated in developing systems for bill payments in partnerships with major national and international banking systems.
+- Promoted to Junior Developer, leading an Android project to enhance payment processing, demonstrating my leadership and technical skills.
 
 With a proven track record of success in challenging projects, I am ready to tackle new challenges and continue to grow professionally.
 
 </div>
+
 
 <br>
 
