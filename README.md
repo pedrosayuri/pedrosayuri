@@ -6,6 +6,9 @@
 
 ## Professional Summary
 
+<br>
+<br>
+
 <div>
 
 <img align="right" alt="Codando" width="450" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
@@ -20,7 +23,6 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 </div>
 
-<br>
 <br>
 <br>
 
