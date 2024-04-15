@@ -7,7 +7,6 @@
 ## Professional Summary
 
 <br>
-<br>
 
 <div>
 
@@ -23,7 +22,6 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 </div>
 
-<br>
 <br>
 
 ### Main skills:
