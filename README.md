@@ -34,7 +34,7 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
-![Java Android]](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
+![Java Android](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
