@@ -15,7 +15,7 @@
  
 Bachelor's degree in Science and Technology from UFRN, passionate about programming since 2019. Experienced in leadership and FullStack development, with highlights including:
 
-- Leadership in a scientific initiation project for managing open-air markets, showcasing FullStack skills.
+- Leadership in a scientific initiation project for managing <br> open-air markets, showcasing FullStack skills.
 - Significant contribution as a Programming Technician at Simples Meios de Pagamento, where I participated in developing systems for bill payments in partnerships with major national and international banking systems.
 - Promoted to Junior Developer, leading an Android project to enhance payment processing, demonstrating my leadership and technical skills.
 
