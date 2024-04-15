@@ -5,9 +5,9 @@
 
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; background-image: url('https://raw.githubusercontent.com/pedrosayuri/pedrosayuri/main/assets/56764512/c8ed5f69-439b-4800-8647-4f5968a4bafb.jpg'); background-size: cover; background-position: center;">
 
-<div align=~right>
+<div style="flex: 1; text-align: right; padding: 20px;">
 
  ### Resumo Profissional
 
@@ -21,13 +21,14 @@
 
 </div>
 
-<div align="left">
+<div style="flex: 1; text-align: left; padding: 20px;">
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif)
- 
+
 </div>
 
 </div>
+
 
 
 
