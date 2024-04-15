@@ -2,21 +2,41 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&pause=1000&color=38C2FF&background=36BCF700&vCenter=true&random=false&width=900&height=70&lines=------+Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB++------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;%F0%9F%93%B1+Specialized+in+Web+and+Mobile+%F0%9F%92%BB)](https://git.io/typing-svg)
 
+
+</div>
+
+<div align="center">
+
+<div align=~right>
+
+ ### Resumo Profissional
+
+ Graduado em Bacharelado em Ciências e Tecnologia pela UFRN, com paixão pela programação desde 2019. Experiente em liderança e desenvolvimento FullStack, destacando-se por:
+
+ - Liderança em projeto de iniciação científica para gestão de feiras livres, demonstrando habilidades FullStack.
+ - Contribuição significativa como Técnico de Programação na Simples Meios de Pagamento, onde participei do desenvolvimento de sistemas para recebimentos de contas em parceria com o Banco Santander, Banco do Brasil e GetNet.
+ - Promoção para Desenvolvedor Júnior, liderando projeto Android para aprimoramento dos recebimentos, evidenciando minha capacidade de liderança e habilidades técnicas.
+
+ Com um histórico comprovado de sucesso em projetos desafiadores, estou pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
+
+</div>
+
+<div align="left">
+
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif)
+ 
+</div>
+
+</div>
+
+
+
+
+
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosayuri&bg_color=000000&color=B0E0E6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Resumo Profissional
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
-
-Graduado em Bacharelado em Ciências e Tecnologia pela UFRN, com paixão pela programação desde 2019. Experiente em liderança e desenvolvimento FullStack, destacando-se por:
-
-- Liderança em projeto de iniciação científica para gestão de feiras livres, demonstrando habilidades FullStack.
-- Contribuição significativa como Técnico de Programação na Simples Meios de Pagamento, onde participei do desenvolvimento de sistemas para recebimentos de contas em parceria com o Banco Santander, Banco do Brasil e GetNet.
-- Promoção para Desenvolvedor Júnior, liderando projeto Android para aprimoramento dos recebimentos, evidenciando minha capacidade de liderança e habilidades técnicas.
-
-Com um histórico comprovado de sucesso em projetos desafiadores, estou pronto para enfrentar novos desafios e continuar crescendo profissionalmente.
 
 ### Main skills:
 ![Java](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&labelColor=0D1117)&nbsp;
