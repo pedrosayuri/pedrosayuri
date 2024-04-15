@@ -1,7 +1,6 @@
-<div>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=950&size=32&pause=1000&center=true&vCenter=true&random=false&width=600&height=90&lines=--------+Hello+World!+--------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;Specialized+in+Web+and+Mobile)](https://git.io/typing-svg)
-
 
 </div>
 
