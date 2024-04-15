@@ -10,6 +10,9 @@
 
 <div style="text-align: justify;">
 
+<img align="right" alt="bear coding" width="500" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
+</div>
+
 Bachelor's degree in Science and Technology from UFRN, passionate about programming since 2019. Experienced in leadership and FullStack development, with highlights including:
 
 - Leadership in a scientific initiation project for managing open-air markets, showcasing FullStack skills.
