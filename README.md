@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=950&size=32&pause=1000&center=true&vCenter=true&random=false&width=600&height=90&lines=--------+Hello+World!+--------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;Specialized+in+Web+and+Mobile)](https://git.io/typing-svg)
 
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; background-image: url('https://raw.githubusercontent.com/pedrosayuri/pedrosayuri/main/assets/56764512/c8ed5f69-439b-4800-8647-4f5968a4bafb.jpg'); background-size: cover; background-position: center;">
-
-<div>
 
 ## Professional Summary
 
