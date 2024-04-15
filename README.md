@@ -8,7 +8,7 @@
 
 <br>
 
-<div>
+<div style="justify-content: center">
 
 <img align="right" alt="bear coding" width="500" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 </div>
