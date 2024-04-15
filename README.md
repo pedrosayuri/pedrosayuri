@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=950&size=32&pause=1000&center=true&vCenter=true&random=false&width=600&height=90&lines=--------+Hello+World!+--------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;Specialized+in+Web+and+Mobile)](https://git.io/typing-svg)
 
+</div>
 
 ## Professional Summary
+
+<div>
 
 <img align="right" alt="Codando" width="450" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
 
