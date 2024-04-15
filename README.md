@@ -53,6 +53,8 @@ With a proven track record of success in challenging projects, I am ready to tac
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
 
+<br>
+
 <div align="center" >
 
 ### My Activities
