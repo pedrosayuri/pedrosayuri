@@ -27,12 +27,15 @@ With a proven track record of success in challenging projects, I am ready to tac
 
 ## Main skills:
 
+### Mobile:
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=0D1117)
+![Java Android](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
 ### FrontEnd:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java Android](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 
 ### BackEnd:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117)&nbsp;
