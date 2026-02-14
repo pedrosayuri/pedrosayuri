@@ -1,91 +1,200 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=950&size=32&pause=1000&center=true&vCenter=true&random=false&width=600&height=90&lines=--------+Hello+World!+--------;I'm+Yuri+Pedrosa+de+Oliveira;Full+Stack+Developer;Specialized+in+Web+and+Mobile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=950&size=32&pause=1000&center=true&vCenter=true&width=600&height=90&lines=Hello+World!;I'm+Yuri+Pedrosa;Payment+Systems+Engineer;SmartPOS+%7C+Android+%7C+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
-## Professional Summary
+---
 
-<br>
+# 👨‍💻 About Me
 
-<img align="right" alt="bear coding" width="500" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5raXhsejRwM3lmbXF3Y3A4M3pkeHplY3BoYnk3dnluZmRuajM0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif">
-</div>
+I am a Software Developer specialized in **payment systems**, **SmartPOS applications**, and **real-time distributed architectures**.
 
-<div style="text-align: justify;">
- 
-Bachelor's degree in Science and Technology from UFRN, passionate about programming since 2019. Experienced in leadership and FullStack development, with highlights including:
+Since 2019, I have been building scalable solutions across **mobile**, **backend**, and **web platforms**, focusing on secure financial integrations and high-availability systems.
 
-- Leadership in a scientific initiation project for managing open-air markets, showcasing FullStack skills.
-- Significant contribution as a Programming Technician at Simples Meios de Pagamento, where I participated in developing systems for bill payments in partnerships with major national and international banking systems.
-- Promoted to Junior Developer, leading an Android project to enhance payment processing, demonstrating my leadership and technical skills.
+Currently working with:
 
-With a proven track record of success in challenging projects, I am ready to tackle new challenges and continue to grow professionally.
+💳 SmartPOS payment ecosystems  
+📱 Android embedded systems  
+🌐 Real-time monitoring platforms  
+🏦 Banking correspondent applications  
 
-</div>
+I enjoy solving complex integration challenges and designing resilient software architectures.
 
-<br>
+---
 
-## Main skills:
+# 🏆 Professional Highlights
 
-### Mobile:
+✔ Developed mobile payment solutions integrated with national banking systems  
+✔ Led Android SmartPOS projects focused on transaction reliability and performance  
+✔ Built real-time monitoring platforms used across Brazil  
+✔ Experience integrating EMV, NFC and DUKPT payment security standards  
+✔ Full lifecycle experience: architecture → development → deployment → monitoring  
+
+---
+
+# 🚀 Featured Projects
+
+## 🖥 SmartPOS Monitoring Platform
+
+Full-stack platform used to monitor POS terminals in real time across Brazil.
+
+**Tech Stack**
+
+- React + TypeScript  
+- Spring Boot  
+- WebSockets  
+- Android Integration  
+
+---
+
+## 💳 SmartPOS Payment Application
+
+Android application responsible for card transaction processing and banking integrations.
+
+**Tech Stack**
+
+- Kotlin / Java  
+- EMV + NFC  
+- DUKPT Key Management  
+- Embedded POS SDKs  
+
+---
+
+## 🌐 MiniApps SDK Platform
+
+SDK that allows web miniapps to run inside SmartPOS devices with native integrations.
+
+**Tech Stack**
+
+- Kotlin Android Bridge  
+- JavaScript SDK  
+- REST + WebSocket APIs  
+
+---
+
+# 🧩 Core Expertise
+
+## 📱 Mobile Development
+
+- Android Native (Kotlin / Java)  
+- SmartPOS Ecosystems  
+- React Native  
+
+## 🌐 Backend & Distributed Systems
+
+- Java / Spring Boot  
+- REST & WebSocket Architectures  
+- Payment Transaction Processing  
+
+## 💻 Frontend
+
+- React  
+- TypeScript  
+- Vite  
+
+## 💳 Payment & Security
+
+- EMV  
+- NFC Transactions  
+- DUKPT Key Injection  
+
+---
+
+# 🛠 Technologies & Tools
+
+### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=7F52FF)
-![Java Android](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Java Android](https://img.shields.io/badge/-Java%20Android-0D1117?style=for-the-badge&logo=android)
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react)
 
-### FrontEnd:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
-### BackEnd:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-0D1117?style=for-the-badge&logo=hibernate&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Frontend
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
-### Database:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+---
 
-### DevOps:
-![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit5&labelColor=0D1117)&nbsp;
-![Mockito](https://img.shields.io/badge/-Mockito-0D1117?style=for-the-badge&logo=mockito&labelColor=0D1117)&nbsp;
-![SonarQube](https://img.shields.io/badge/-SonarQube-0D1117?style=for-the-badge&logo=sonarqube&labelColor=0D1117)&nbsp;
-![JaCoCo](https://img.shields.io/badge/-JaCoCo-0D1117?style=for-the-badge&logo=jacoco&labelColor=0D1117)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus&labelColor=0D1117)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+### Backend
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-0D1117?style=for-the-badge&logo=hibernate)
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&labelColor=0D1117)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
-![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
+---
 
-## Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
 
-<br>
+---
 
-<div align="center" >
+### DevOps & Observability
+![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit5)
+![Mockito](https://img.shields.io/badge/-Mockito-0D1117?style=for-the-badge&logo=mockito)
+![SonarQube](https://img.shields.io/badge/-SonarQube-0D1117?style=for-the-badge&logo=sonarqube)
+![JaCoCo](https://img.shields.io/badge/-JaCoCo-0D1117?style=for-the-badge&logo=jacoco)
+![Prometheus](https://img.shields.io/badge/-Prometheus-0D1117?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-0D1117?style=for-the-badge&logo=grafana)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 
-### My Activities
+---
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/pedrosayuri?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea)
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia)
+![DBeaver](https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&logo=dbeaver)
 
-</div>
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrosayuri}/count.svg" /></p> 
-<br></div>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrosayuri&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosayuri&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://ssr-contributions-svg.vercel.app/_/pedrosayuri?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&weeks=30&theme=blue)
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- Passionate about embedded payment systems  
+- Love building developer SDKs and integration platforms  
+- Strong interest in distributed system architectures  
+- Always exploring performance and security improvements  
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: (your email here)  
+💼 LinkedIn: (your linkedin here)  
+
+---
+
+<div align="center">
+
+### 👀 Visitors Count
+
+<img src="https://profile-counter.glitch.me/pedrosayuri/count.svg" />
+
+</div>
