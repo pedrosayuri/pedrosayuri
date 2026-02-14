@@ -186,8 +186,8 @@ SDK that allows web miniapps to run inside SmartPOS devices with native integrat
 
 # 🤝 Let's Connect
 
-📧 Email: (your email here)  
-💼 LinkedIn: (your linkedin here)  
+📧 Email: yuri.14psn@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/pedrosa-yuri/
 
 ---
 
